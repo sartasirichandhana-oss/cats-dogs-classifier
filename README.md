@@ -11,3 +11,13 @@ Technologies:
 - OpenCV
 Note: Trained model file not uploaded due to GitHub size limits. 
 Model can be recreated by running the notebook.
+## 📊 Model Accuracy Graph
+
+![Accuracy Graph](accuracy_graph.png)
+
+---
+
+## 🧠 Model Architecture Summary
+
+![Model Summary](summary.png)
+
